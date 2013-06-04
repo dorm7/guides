@@ -3,7 +3,7 @@ Guides
 
 Guides for project management, programming, etc.
 
-* [Project Management with Trello](https://github.com/dorm7/guides/tree/master/project-management)
+* [Project Management with Trello](/project-management)
 * Programming with Python
 * Django Developemnt
 
