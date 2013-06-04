@@ -69,3 +69,24 @@ Next Up 當中的 Card 依照 Priority 排序，Priority 越高的 Card 排在�
 
 每週完成的 Card 會放在 Live List，Live List 會標註長度為期兩週的期間。
 
+# Weekly Meeting
+
+每周會有兩次的 Meeting 來了解大家的狀況，分別為禮拜一的 Plan Meeting 以及週五的 Review Meeting，以下對這兩個 Meeting 分別做說明。
+
+## Plan Meeting
+
+在每週一的午餐過後進行，目的為計畫一週當中所要做的事情，以及釐清目前發生的事情。程序如下：
+
+* Archive 兩週前的 "Live" list
+* Review 各個 Project Board，將 IDEAS、TODO 做適當的釐清和拆解，並且把可能的 action item 放到 Ready for Next Up 當中
+* Review 各個 Project Board 當中的 Ready for Next Up List，重新依照 Priority 做排序，並且每個人依照自己當週的狀況將 Ready for Next Up 當中的 Card 移至 Current Board 當中的 Next Up List
+
+## Review Meeting
+
+在每週五的午餐過後進行，目的為 Review 本週的狀況，程序如下：
+
+* Review 本週移至 Live List 當中的 Card，大概重新講一下每張 Card 上面的工作內容，然後大家拍拍手說棒棒！
+* Review 其他尚未的移到 Live List 的 Card，釐清可能發生的問題或狀況
+
+
+
