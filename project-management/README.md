@@ -6,6 +6,11 @@
 
 其中，Current 為一個 Trello Board。Next Up、In Progress、Review 為 List，"準備 Dorm7 官網資料" 則是一張 Card。
 
+## General Rules
+
+* 每個 List 當中的 Card 依照 priority 排列，priority 越高的 Card 放在 List 越上面
+* 在 Card 上面的大頭代表負責此項工作的人，在需要他人回應或是告知時，務必以 @ 做 notification
+
 每個 Project 會開啟一個 Project Board 作為追蹤，此外，Current Board 代表本週正在進行的事項。以下分別針對 Project Board 跟 Current Board 的項目做說明。
 
 # Project Board
